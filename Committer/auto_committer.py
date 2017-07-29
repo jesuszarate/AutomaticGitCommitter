@@ -4,6 +4,9 @@ import Password
 # First create a Github instance:
 g = Github("zarate8", Password.getPassword())
 
+# Test to see if I can get token
+
+
 repo_name = 'bkimmig/data-mining-project'
 repo_name = 'zarate8/AutomaticGitCommitter'
 
